@@ -5,3 +5,5 @@ Sleeper API Documentation: https://docs.sleeper.com/#introduction
 
 # Notes about the script:
 This script currently only sorts draft order by Max PF. 
+
+![](https://github.com/george-harding/SleeperDraftOrderFetcher-/blob/main/SleeperDraftOrderFetcher.gif)
